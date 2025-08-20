@@ -4,7 +4,7 @@
 // References
 // https://www.w3schools.com/cpp/cpp_user_input.asp
 
-// This program will get three ints from teh user and output the largest of the Three
+// This program will get three ints from the user and output the largest of the Three
 
 
 #include <iostream>
